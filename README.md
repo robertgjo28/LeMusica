@@ -1,4 +1,12 @@
 # LeMusica
+```
+Platform for streaming music.
+
+DEMO LINK: https://le-musica.vercel.app/
+
+```
+
+
 
 ## Project setup
 ```
