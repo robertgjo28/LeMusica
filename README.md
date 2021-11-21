@@ -2,7 +2,7 @@
 ```
 Platform for streaming music.
 
-[DEMO LINK](https://le-musica.vercel.app/)
+You can check the project out on this [DEMO LINK](https://le-musica.vercel.app/)
 
 ```
 
