@@ -3,7 +3,6 @@
 Platform for streaming music.
 
 You can check the project out on this [DEMO LINK](https://le-musica.vercel.app/)
-[GitHub Pages](https://pages.github.com/)
 
 ```
 
